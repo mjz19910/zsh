@@ -155,3 +155,7 @@ Src/Zle/zle_widget.h
 
 Test/*.tmp
 /.project
+
+conftest.c
+conftest.err
+confdefs.h
